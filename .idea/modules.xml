@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/attendanceLog.iml" filepath="$PROJECT_DIR$/attendanceLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenModule/db.iml" filepath="$PROJECT_DIR$/mavenModule/db.iml" />
     </modules>
   </component>
 </project>

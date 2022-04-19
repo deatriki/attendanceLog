@@ -25,4 +25,8 @@ public class people {
 
         System.out.println("Таблица создана");
     }
+
+    public static void writeDB() throws SQLException{
+
+    }
 }

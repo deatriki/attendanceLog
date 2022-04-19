@@ -4,6 +4,7 @@ import java.net.URL;
 import java.util.ResourceBundle;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
+import javafx.scene.layout.AnchorPane;
 
 public class HelloController {
 
@@ -12,6 +13,9 @@ public class HelloController {
 
     @FXML
     private URL location;
+
+    @FXML
+    private AnchorPane bg;
 
     @FXML
     private Button button1;
